@@ -1,6 +1,6 @@
--- phpMyAdmin SQL Dump
+-- Sam BZEZ SQL Dump
 -- version 4.7.5
--- https://www.phpmyadmin.net/
+-- http://samirm.e2simplon.fr
 --
 -- Hôte : localhost
 -- Généré le :  jeu. 02 nov. 2017 à 22:01
